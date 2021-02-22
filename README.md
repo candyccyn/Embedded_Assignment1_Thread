@@ -9,6 +9,9 @@
 ###### - Question 3: Queue 
 
 ##  The second assignment: Connected various sensors, and maker drive with RPi PiPico
+##### There are touch sensor, liquid level sensor, and PIR sensor.  
+
+## The third assignment: Connected with the ultrasonic sensor and the DS18X20 with the RPi PiPico
 
 ## Coded by 
 ###### Chayanuch Likitpanjamanon 61090004
